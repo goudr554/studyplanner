@@ -31,15 +31,7 @@ Feedback on your study session
 
 ->Data Persistence:
 
-Saves your study plan in the browser's localStorage
-No database required, everything works locally
+It Saves your study plan in the browser's localStorage
+we have not used any  database , everything works locally
 
 
-
-->How to use the application:
-
-Save the three files (HTML, CSS, and JavaScript) with the names index.html, styles.css, and script.js respectively
-Make sure they're in the same directory
-Open the index.html file in your browser
-
-The application has a clean, responsive design with a limited set of intuitive buttons, making it easy to use on any device. Let me know if you'd like any adjustments or have questions about how it works!
